@@ -110,7 +110,7 @@ require dirname(__DIR__) . '/_header.php';
                         <img src="<?php echo $speaker['img']; ?>" class="mr-3 rounded shadow-sm" style="max-width: 100px;" alt="<?php echo htmlentities($speaker['name']); ?>">
                         <div class="media-body">
                             <h5 class="mt-0"><?php echo htmlentities($speaker['name']); ?></h5>
-                            <div class="text-muted"><?php echo htmlentities($speaker['topic']); ?></div>
+                            <small class="text-muted"><?php echo htmlentities($speaker['org']); ?><?php if (!empty($speaker['topic'])) { ?><br>Topic: <?php echo htmlentities($speaker['topic']); } ?></small>
                         </div>
                     </div>
                 </div>
