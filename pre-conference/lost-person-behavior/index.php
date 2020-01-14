@@ -46,7 +46,7 @@ require dirname(dirname(__DIR__)) . '/_header.php';
 
             <h2 class="section-header mb-3 mt-5">Instructor Bio</h2>
 
-            <img src="https://www.dbs-sar.com/images/koester.jpg" alt="Bob Koester" class="float-right ml-2 mb-2" style="max-height: 180px;">
+            <img src="/img/speakers/bob-koester.jpg" alt="Bob Koester" class="float-right ml-2 mb-2" style="max-height: 180px;">
 
             <p>Robert has participated in search and rescue for 38 years both as a field responder with over a hundred searches while Incident Commander and as a researcher. He holds a Ph.D. from the University of Portsmouth in search theory. His contributions to search and rescue include seminal research on lost person behavior along with creating the International Search and Rescue Incident Database (ISRID). He is CEO of dbS, which provides research, publications, and SAR software called FIND. Robert has authored numerous books and research articles on SAR, including <i>Lost Person Behavior</i>, which has been presented on all seven continents.</p>
         </div>

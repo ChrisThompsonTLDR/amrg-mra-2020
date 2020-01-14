@@ -21,6 +21,14 @@ require dirname(__DIR__) . '/_header.php';
             <h2 class="section-header mb-3 mt-5">Lost Person Behavior</h2>
             <p>Lost person behavior is the basis of search and rescue missions. This course will present the most recent advances in lost person behavior with Robert Koester’s latest research, and new behavior categories crucial to solving the mystery of where to look for a lost person.</p>
             <a href="/pre-conference/lost-person-behavior/" class="btn btn-outline-danger btn-sm">Learn More</a>
+
+            <h2 class="section-header mb-3 mt-5">Technical Self-Rescue for Climbers</h2>
+            <p>One day Technical Self-Rescue for Climbers program, presented by the American Alpine Institute, is an intensive one-day seminar on improvised multi-pitch rock rescue techniques. Participants study a series of haul, lower, rappel and rope-climbing systems and then apply them to a variety of practical scenarios. Individuals who complete this rock-rescue program should be able to apply these skills to a wide array of complex high-angle problems. There will be a 8:2 student-to-instructor ratio. All instructors are AMGA Certified Rock and Alpine Guides.</p>
+            <a href="/pre-conference/technical-self-rescue-for-climbers/" class="btn btn-outline-danger btn-sm">Learn More</a>
+
+            <h2 class="section-header mb-3 mt-5">NASAR Wilderness First Aid</h2>
+            <p>Wilderness First Aid (WFA) is a 16-hour course is a practical 16-hour course that explains wilderness hazards and trains you to treat injuries and other emergencies in the wilderness.</p>
+            <a href="/pre-conference/nasar-wilderness-first-aid/" class="btn btn-outline-danger btn-sm">Learn More</a>
         </div>
     </div>
 </div>
