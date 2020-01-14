@@ -1,0 +1,9 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^4.1",
+        "christhompsontldr/sparrow": "dev-master"
+    },
+    "repositories": [
+        {"type": "vcs", "url": "git@github.com:christhompsontldr/sparrow.git"}
+    ]
+}

@@ -1,0 +1,65 @@
+body, html {
+    height: 100%;
+}
+body {
+    font-size: 1rem;
+}
+#main {
+}
+#footer {
+    margin-bottom: 80px;
+}
+p a, li a {
+    color: #1F9BCF;
+}
+strong {
+    font-weight: 700;
+}
+
+/* https://www.w3schools.com/howto/howto_css_parallax.asp */
+.parallax { 
+    /* The image used */
+    background-image: linear-gradient(
+          rgba(0, 0, 0, 0.5), 
+          rgba(0, 0, 0, 0.5)
+        ),
+        url('/img/cold-daylight-environment-1423600.jpg');
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* https://www.trysmudford.com/blog/css-header-legend/ */
+h2.section-header {
+    display: flex;
+    width: 100%;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+
+h2.section-header:after {
+    content: '';
+    border-top: 1px solid rgba(0,0,0,0.1);
+    margin: 15px 0 0 20px;
+    flex: 1 0 20px;
+}
+
+.vertical-align {
+  letter-spacing: -4px;
+  font-size: 0;
+}
+
+.vertical-align .col-sm-6 {
+  vertical-align: middle;
+  display: inline-block;
+  letter-spacing: 0;
+  font-size: 14px;
+  float: none;
+}
