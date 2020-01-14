@@ -17,17 +17,29 @@ require __DIR__ . '/_header.php';
     <div class="container h-100">
         <div class="row h-75">
             <div class="col my-auto">
-                <h1 class="mb-5 text-white">Mountain Rescue Association<br>Spring Conference 2020</h1>
+                <div class="text-center d-sm-none py-4">
+                    <img class="w-75 mb-5" src="/img/conference-300x300.png" alt="Spring 2020 Conference">
 
-                <h2 class="text-white">June 11-13</h2>
-                
-                <?php /*<button type="button" class="btn btn-danger mt-5 mr-5" data-toggle="modal" data-target="#registerModal">Register Now</button>*/ ?>
-                <a href="https://www.eventbrite.com/e/2020-mountain-rescue-association-spring-conference-tickets-79268808139" class="btn btn-danger mt-5 mr-5" target="_blank">Register Now</a>
-                <a href="#call-for-speakers" class="btn btn-danger mt-5 mr-5">Call for Speakers</a>
-                <a href="/become-a-sponsor/" class="btn btn-danger mt-5">Become a Sponsor</a>
+                    <h2 class="text-white">June 11-13</h2>
+
+                    <?php /*<button type="button" class="btn btn-danger mt-5 mr-5" data-toggle="modal" data-target="#registerModal">Register Now</button>*/ ?>
+                    <a href="https://www.eventbrite.com/e/2020-mountain-rescue-association-spring-conference-tickets-79268808139" class="btn btn-danger mt-5" target="_blank">Register Now</a><br>
+                    <a href="#call-for-speakers" class="btn btn-danger mt-5">Call for Speakers</a><br>
+                    <a href="/become-a-sponsor/" class="btn btn-danger mt-5">Become a Sponsor</a>
+                </div>
+                <div class="d-sm-block d-none">
+                    <h1 class="mb-5 text-white d-none d-sm-block">Mountain Rescue Association<br>Spring Conference 2020</h1>
+
+                    <h2 class="text-white">June 11-13</h2>
+
+                    <?php /*<button type="button" class="btn btn-danger mt-5 mr-5" data-toggle="modal" data-target="#registerModal">Register Now</button>*/ ?>
+                    <a href="https://www.eventbrite.com/e/2020-mountain-rescue-association-spring-conference-tickets-79268808139" class="btn btn-danger mt-5 mr-5" target="_blank">Register Now</a>
+                    <a href="#call-for-speakers" class="btn btn-danger mt-5 mr-5">Call for Speakers</a>
+                    <a href="/become-a-sponsor/" class="btn btn-danger mt-5">Become a Sponsor</a>
+                </div>
             </div>
             <div class="col-sm-3 my-auto">
-                <img class="img-fluid" src="/img/conference-300x300.png" alt="Spring 2020 Conference">
+                <img class="img-fluid d-none d-sm-block" src="/img/conference-300x300.png" alt="Spring 2020 Conference">
             </div>
         </div>
     </div>
