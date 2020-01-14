@@ -208,7 +208,7 @@ require __DIR__ . '/_header.php';
                     <p class="mt-4">Group camping is available at nearby <a href="https://www.dcnr.pa.gov/StateParks/FindAPark/LaurelHillStatePark/Pages/default.aspx" target="_blank">Laurel Hill State Park</a> for $10 per night per tent or vehicle. This location is about a 10 minute drive from the conference. Camping is for tents only, no hook-up. RV sites with hookups can be  booked separately on the State Park website. Hotel rooms are available at Seven Springs, including dog friendly rooms.  Group camping spots can be purchased along with your conference tickets as part of the registration process.</p>
                 </div>
                 <div class="col">
-                    <img class="img-fluid img-thumbnail" src="/img/seven-springs.jpg">
+                    <img class="img-fluid rounded shadow-sm" src="/img/seven-springs.jpg">
                 </div>
             </div>
         </div>
