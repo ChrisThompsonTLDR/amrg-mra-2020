@@ -204,7 +204,8 @@ require __DIR__ . '/_header.php';
                     <p><a href="https://www.google.com/maps/place/Seven+Springs+Mountain+Resort/@40.022977,-79.297703,3530m/data=!3m1!1e3!4m5!3m4!1s0x0:0xe64df0643e194e61!8m2!3d40.0229768!4d-79.2977032?hl=en-US">Champion, PA</a></p>
                     <p>Seven Springs is located approximately one hour's drive southeast of Pittsburgh, located within 200 miles of Washington, D.C., Baltimore, Cleveland and Columbus and it is easily accessible off exits 91 or 110 of the Pennsylvania Turnpike. Pittsburgh International Airport is the nearest metropolitan terminal.</p>
                     <a href="https://hotel.7springs.com/default.aspx?p=&arrival=06/06/2020&depart=06/14/2020&adults=2&children=0&rooms=1&group=8bt7yc&multiprop=H&bookingstep=1" target="_blank" class="btn btn-danger btn-sm">Book a Room</a>
-                    <a href="https://www.dcnr.pa.gov/StateParks/FindAPark/LaurelHillStatePark/Pages/default.aspx" target="_blank" class="btn btn-danger btn-sm ml-3">Camp Nearby</a>
+
+                    <p class="mt-4">Group camping is available at nearby <a href="https://www.dcnr.pa.gov/StateParks/FindAPark/LaurelHillStatePark/Pages/default.aspx" target="_blank">Laurel Hill State Park</a> for $10 per night per tent or vehicle. This location is about a 10 minute drive from the conference. Camping is for tents only, no hook-up. RV sites with hookups can be  booked separately on the State Park website. Hotel rooms are available at Seven Springs, including dog friendly rooms.  Group camping spots can be purchased along with your conference tickets as part of the registration process.</p>
                 </div>
                 <div class="col">
                     <img class="img-fluid img-thumbnail" src="/img/seven-springs.jpg">
