@@ -11,11 +11,11 @@
             <li class="nav-item">
                 <a class="nav-link" href="/">Home</a>
             </li>
+            <li class="nav-item<?php echo ((strpos($_SERVER['REQUEST_URI'], '/speakers/') === 0) ? ' active' : ''); ?>">
+                <a class="nav-link" href="/speakers/">Speakers<?php echo ((strpos($_SERVER['REQUEST_URI'], '/speakers/') === 0) ? ' <span class="sr-only">(current)</span>' : ''); ?></a>
+            </li>
             <li class="nav-item">
                 <a class="nav-link" href="/#sponsors">Sponsors</a>
-            </li>
-            <li class="nav-item<?php echo ((strpos($_SERVER['REQUEST_URI'], '/code-of-conduct/') === 0) ? ' active' : ''); ?>">
-                <a class="nav-link" href="/code-of-conduct/">Code of Conduct<?php echo ((strpos($_SERVER['REQUEST_URI'], '/code-of-conduct/') === 0) ? ' <span class="sr-only">(current)</span>' : ''); ?></a>
             </li>
             <li class="nav-item<?php echo ((strpos($_SERVER['REQUEST_URI'], '/exhibitors/') === 0) ? ' active' : ''); ?>">
                 <a class="nav-link" href="/exhibitors/">Exhibitors<?php echo ((strpos($_SERVER['REQUEST_URI'], '/exhibitors/') === 0) ? ' <span class="sr-only">(current)</span>' : ''); ?></a>
