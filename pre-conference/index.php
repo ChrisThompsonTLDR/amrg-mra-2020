@@ -29,6 +29,10 @@ require dirname(__DIR__) . '/_header.php';
             <h2 class="section-header mb-3 mt-5">NASAR Wilderness First Aid</h2>
             <p>Wilderness First Aid (WFA) is a 16-hour course is a practical 16-hour course that explains wilderness hazards and trains you to treat injuries and other emergencies in the wilderness.</p>
             <a href="/pre-conference/nasar-wilderness-first-aid/" class="btn btn-outline-danger btn-sm">Learn More</a>
+
+            <h2 class="section-header mb-3 mt-5">Canine Wilderness Search Strategy</h2>
+            <p>The seminar focuses on search strategy and reading the dogs' alerts in wilderness areas, for live find dogs as well as recovery dogs.</p>
+            <a href="/pre-conference/canine-wilderness-search-strategy/" class="btn btn-outline-danger btn-sm">Learn More</a>
         </div>
     </div>
 </div>
