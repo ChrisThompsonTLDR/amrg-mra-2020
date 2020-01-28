@@ -17,6 +17,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="/#sponsors">Sponsors</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/files/mra-2020-conference.pdf">Schedule</a>
+            </li>
             <li class="nav-item<?php echo ((strpos($_SERVER['REQUEST_URI'], '/exhibitors/') === 0) ? ' active' : ''); ?>">
                 <a class="nav-link" href="/exhibitors/">Exhibitors<?php echo ((strpos($_SERVER['REQUEST_URI'], '/exhibitors/') === 0) ? ' <span class="sr-only">(current)</span>' : ''); ?></a>
             </li>
