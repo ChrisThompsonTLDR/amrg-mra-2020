@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm navbar-light bg-light py-1 px-2 shadow-sm">
+<nav class="navbar navbar-expand-lg navbar-light bg-light py-1 px-2 shadow-sm">
     <a class="navbar-brand" href="/">
         <img src="/img/conference-300x300.png" width="30" height="30" class="d-inline-block align-top" alt="">
     </a>
@@ -25,6 +25,9 @@
             </li>
             <li class="nav-item<?php echo ((strpos($_SERVER['REQUEST_URI'], '/pre-conference/') === 0) ? ' active' : ''); ?>">
                 <a class="nav-link" href="/pre-conference/">Pre-Conference<?php echo ((strpos($_SERVER['REQUEST_URI'], '/pre-conference/') === 0) ? ' <span class="sr-only">(current)</span>' : ''); ?></a>
+            </li>
+            <li class="nav-item<?php echo ((strpos($_SERVER['REQUEST_URI'], '/highlights/') === 0) ? ' active' : ''); ?>">
+                <a class="nav-link" href="/highlights/">Highlights<?php echo ((strpos($_SERVER['REQUEST_URI'], '/highlights/') === 0) ? ' <span class="sr-only">(current)</span>' : ''); ?></a>
             </li>
         </ul>
 
