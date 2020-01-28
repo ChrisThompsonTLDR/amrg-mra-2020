@@ -203,7 +203,6 @@ require __DIR__ . '/_header.php';
             <p>We are looking for sponsors and vendors for this conference. You will have access to hundreds of search and rescue experts and decision-makers from SAR teams from across the country and around the world. If you are interested in becoming a sponsor or have other questions about the conference, please email: <a href="mailto:mrasarcon2020@amrg.info">mrasarcon2020@amrg.info</a></p>
 
             <p>This website will be updated frequently as the conference date approaches.</p>
-
         </div>
     </div>
     <div class="row">
@@ -225,47 +224,7 @@ require __DIR__ . '/_header.php';
             </div>
         </div>
     </div>
-<?php /*
-    <div class="row">
-        <div class="col">
-            <h2 class="section-header mb-3 mt-5">Sponsors</h2>
 
-            <?php
-                $sponsors = [
-                    [
-                        'logo' => 'logo-1.svg',
-                    ],
-                    [
-                        'logo' => 'logo-2.svg',
-                    ],
-                    [
-                        'logo' => 'logo-3.svg',
-                    ],
-                    [
-                        'logo' => 'logo-4.svg',
-                    ],
-                    [
-                        'logo' => 'logo-5.svg',
-                    ],
-                    [
-                        'logo' => 'logo-6.svg',
-                    ],
-                    [
-                        'logo' => 'logo-7.svg',
-                    ],
-                    [
-                        'logo' => 'logo-8.svg',
-                    ],
-                ];
-            ?>
-            <div class="row">
-                <?php foreach ($sponsors as $sponsor) { ?>
-                <div class="col-md-3 col-sm-6 text-center"><img src="/img/sponsors/<?php echo $sponsor['logo']; ?>" class="img-fluid mb-5"></div>
-                <?php } ?>
-            </div>
-        </div>
-    </div>
-*/ ?>
     <div class="row">
         <div class="col">
             <h2 class="section-header mb-3 mt-5">Hosts</h2>
@@ -300,6 +259,7 @@ require __DIR__ . '/_header.php';
                 <div class="col-sm-6 text-center my-4 my-sm-5"><a href="http://www.alpineinstitute.com/"><img src="/img/sponsors/american-alpine-institute.png" alt="American Alpine Institute" class="img-fluid px-5 px-sm-3"></a></div>
                 <div class="col-sm-6 text-center my-4 my-sm-5"><a href="https://www.teamwendy.com/search-rescue"><img src="/img/sponsors/team-wendy.png" alt="Team Wendy" class="img-fluid px-5 px-sm-3"></a></div>
                 <div class="col-sm-6 text-center my-4 my-sm-5"><a href="https://smcgear.com/"><img src="/img/sponsors/smc-gear.png" alt="SMC Gear" class="img-fluid px-5 px-sm-3"></a></div>
+                <div class="col-sm-6 text-center my-4 mb-sm-5"><a href="https://arcteryx.com/"><img src="/img/sponsors/arcteryx.png" alt="Arc'teryx" class="img-fluid px-5 px-sm-3" style="max-height: 100px;"></a></div>
             </div>
         </div>
     </div>
