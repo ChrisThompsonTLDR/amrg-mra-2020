@@ -24,7 +24,7 @@ require __DIR__ . '/_header.php';
 
                     <?php /*<button type="button" class="btn btn-danger mt-5 mr-5" data-toggle="modal" data-target="#registerModal">Register Now</button>*/ ?>
                     <a href="https://www.eventbrite.com/e/2020-mountain-rescue-association-spring-conference-tickets-79268808139" class="btn btn-danger mt-5" target="_blank">Register Now</a><br>
-                    <a href="#call-for-speakers" class="btn btn-danger mt-5">Call for Speakers</a><br>
+                    <?php /*<a href="#call-for-speakers" class="btn btn-danger mt-5">Call for Speakers</a><br>*/ ?>
                     <a href="/become-a-sponsor/" class="btn btn-danger mt-5">Become a Sponsor</a>
                 </div>
                 <div class="d-sm-block d-none">
@@ -34,7 +34,7 @@ require __DIR__ . '/_header.php';
 
                     <?php /*<button type="button" class="btn btn-danger mt-5 mr-5" data-toggle="modal" data-target="#registerModal">Register Now</button>*/ ?>
                     <a href="https://www.eventbrite.com/e/2020-mountain-rescue-association-spring-conference-tickets-79268808139" class="btn btn-danger mt-5 mr-5" target="_blank">Register Now</a>
-                    <a href="#call-for-speakers" class="btn btn-danger mt-5 mr-5">Call for Speakers</a>
+                    <?php /*<a href="#call-for-speakers" class="btn btn-danger mt-5 mr-5">Call for Speakers</a>*/ ?>
                     <a href="/become-a-sponsor/" class="btn btn-danger mt-5">Become a Sponsor</a>
                 </div>
             </div>
@@ -272,7 +272,7 @@ require __DIR__ . '/_header.php';
         </div>
     </div>
 
-    <div id="call-for-speakers" class="row">
+    <?php /*<div id="call-for-speakers" class="row">
         <div class="col">
             <h2 class="section-header mb-3 mt-5">Call for Speakers</h2>
             <p>In June of 2020 our organization is hosting the Mountain Rescue Association’s (MRA) International Search and Rescue Conference at Seven Springs Mountain Resort.  The MRA Conference is invaluable for volunteer SAR organizations. It is the primary method for SAR organizations and First Responders to stay in compliance with the latest rescue equipment and techniques, networking with other organizations, and research on the most effective ways to rescue an individual with minimal risk.</p>
@@ -302,7 +302,7 @@ require __DIR__ . '/_header.php';
                 <a href="https://docs.google.com/document/d/11n0F40GEU_rN_oJpuqAnd_R0wU00pdZovhPxTwzWAjk/edit?usp=sharing" class="btn btn-danger btn-sm ml-4" target="_blank">Speaker Guide</a>
             </div>
         </div>
-    </div>
+    </div>*/ ?>
 </div>
 
 <?php require __DIR__ . '/_footer.php'; ?>
