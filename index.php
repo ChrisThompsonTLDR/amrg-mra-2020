@@ -254,12 +254,13 @@ require __DIR__ . '/_header.php';
         <div class="col">
             <h2 class="section-header mt-5">Sponsors</h2>
             <div class="row vertical-align">
-                <div class="col-sm-6 text-center my-4 my-sm-5"><a href="https://www.nalgene.com/"><img src="/img/sponsors/nalgene.png" alt="Nalgene" class="img-fluid mt-0 mt-sm-3 pt-4 px-5 px-sm-3"></a></div>
+                <div class="col-sm-6 text-center my-4 my-sm-5"><a href="https://www.nalgene.com/"><img src="/img/sponsors/nalgene.png" alt="Nalgene" class="img-fluid mt-0 mt-sm-3 pt-4 px-5 px-sm-3" style="max-width: 450px;"></a></div>
                 <div class="col-sm-6 text-center my-4 my-sm-5"><a href="https://www.garmin.com/"><img src="/img/sponsors/garmin.png" alt="Garmin" class="img-fluid px-5 px-sm-3"></a></div>
                 <div class="col-sm-6 text-center my-4 my-sm-5"><a href="http://www.alpineinstitute.com/"><img src="/img/sponsors/american-alpine-institute.png" alt="American Alpine Institute" class="img-fluid px-5 px-sm-3"></a></div>
                 <div class="col-sm-6 text-center my-4 my-sm-5"><a href="https://www.teamwendy.com/search-rescue"><img src="/img/sponsors/team-wendy.png" alt="Team Wendy" class="img-fluid px-5 px-sm-3"></a></div>
                 <div class="col-sm-6 text-center my-4 my-sm-5"><a href="https://smcgear.com/"><img src="/img/sponsors/smc-gear.png" alt="SMC Gear" class="img-fluid px-5 px-sm-3"></a></div>
                 <div class="col-sm-6 text-center my-4 mb-sm-5"><a href="https://arcteryx.com/"><img src="/img/sponsors/arcteryx.png" alt="Arc'teryx" class="img-fluid px-5 px-sm-3" style="max-height: 100px;"></a></div>
+                <div class="col-sm-6 text-center my-4 mb-sm-5"><a href="https://sterlingrope.com/"><img src="/img/sponsors/sterling-rope.png" alt="Sterling Rope" class="img-fluid px-5 px-sm-3" style="max-width: 450px;"></a></div>
             </div>
         </div>
     </div>
